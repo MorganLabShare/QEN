@@ -1,0 +1,7 @@
+tensorflow
+pillow
+numpy
+keras
+argparse
+GDAL
+glob2
