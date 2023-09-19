@@ -7,7 +7,6 @@ import openpyxl
 import argparse
 import numpy as np
 import datetime
-from tabulate import tabulate
 
 
 def read_items_from_file(txt_path, mode='r'):
